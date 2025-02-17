@@ -21,4 +21,4 @@ Haklı bir şüphe ile yabancı bir exe çalıştırmak istemezseniz `.c` dosyas
 
 ## Geliştirici Notu 
 
-Şansınız yaver gitmediğinde, dosyadan skoru **elle değiştirmek** de oldukça eğlenceli xD
+Şansınız yaver gitmediğinde, dosyadan skoru elle değiştirmek de oldukça eğlenceli xD
