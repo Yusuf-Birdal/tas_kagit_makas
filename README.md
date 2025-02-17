@@ -1,5 +1,4 @@
 <h1 align="center">TAŞ KAĞIT MAKAS İNSAN VS BİLGİSAYAR</h1>
-<h4 align="center">(sadece random fonksyonu)</h4>
 
 ## Açıklama
 
